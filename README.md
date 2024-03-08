@@ -22,7 +22,7 @@ Este é um calendário simples desenvolvido em Python usando a biblioteca Tkinte
 ###
 
 <p align="center">
-  <img src=href="https://raw.githubusercontent.com/cassioestevao/Calendario/main/calendario/img/exemplo.bmp" alt="Interface do Calendário">
+  <img src="https://raw.githubusercontent.com/cassioestevao/Calendario/main/calendario/img/exemplo.bmp" alt="Interface do Calendário">
 </p>
 
    ```bash
