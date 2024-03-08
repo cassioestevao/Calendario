@@ -19,7 +19,11 @@ Este é um calendário simples desenvolvido em Python usando a biblioteca Tkinte
 2. Clone ou faça o download deste repositório para sua máquina local.
 3. Abra o terminal e navegue até o diretório onde o repositório foi baixado.
 4. Execute o seguinte comando para iniciar o calendário:
+###
+
+![Alt text](https://raw.githubusercontent.com/cassioestevao/Calendario/main/calendario/img/exemplo.bmp)
 
    ```bash
    python calendario.py
+
    
