@@ -21,8 +21,6 @@ Este é um calendário simples desenvolvido em Python usando a biblioteca Tkinte
 4. Execute o seguinte comando para iniciar o calendário:
 ###
 
-![Alt text](https://raw.githubusercontent.com/cassioestevao/Calendario/main/calendario/img/exemplo.bmp)
-
 <p align="center">
   <img src="(https://raw.githubusercontent.com/cassioestevao/Calendario/main/calendario/img/exemplo.bmp)" alt="Interface do Calendário">
 </p>
