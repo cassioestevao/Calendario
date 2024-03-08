@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="100">
 </div>
-<div align="center">
-</div>
+
+
 # Calendário Simples em Python com Tkinter
 
 Este é um calendário simples desenvolvido em Python usando a biblioteca Tkinter para a interface gráfica. O calendário exibe o mês atual com os dias da semana e os números dos dias. Ele também permite que o usuário navegue entre os meses para visualizar o calendário de meses anteriores e futuros.
